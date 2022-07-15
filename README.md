@@ -29,3 +29,20 @@ Using the Suspension_Coil.csv file, I created a summary statistics table showing
 #### Statistics on Suspension Coils by Manufacturing Lot
 (insert coil stats by lot here)
 
+## Deliverable 3: T-Tests on Suspension Coils 
+For Deliverable 3, I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1500 pounds per square inch. 
+
+### Summary of t-tests
+- Looking at the data gathered, all of the measuremnts of PSI across all lot are not completely different from the population mean of 1500 lbs per square inch. When performing the t-tests each lot was either on, or very near the population mean:
+  - The t-test of Lot 1 has a mean of 1500 PSI. 
+  - The t-test of Lot 2 has a mean of 1500.2 PSI.
+  - The t-test of Lot 3 has a mean of 1496.14 PSI.
+
+#### T-Test for Lot 1
+(lot1 t-test goes here)
+
+#### T-Test for Lot 2
+(lot2 t-test goes here)
+
+#### T-Test for Lot 3
+(lot3 t-test goes here)
