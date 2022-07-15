@@ -15,7 +15,7 @@ Using the provided CSV file (MechaCar_mpg.csv), I designed a linear model that p
 - This linear model predicts mpg efficiently because the r-squared value is around 71% which indicates that 71% of the predictions can be determined by this model created.
 
 #### Linear Regression 
-(insert image here)
+![Linear_Regression](./Mecha_Car_Statistical_Analysis/Linear_Model)
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 Using the Suspension_Coil.csv file, I created a summary statistics table showing the suspension coil's PSI continuous variable across all manufacturing lots and got the mean, median, variance, and standard deviation of each lot.
