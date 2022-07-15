@@ -46,3 +46,9 @@ For Deliverable 3, I performed t-tests to determine if all manufacturing lots an
 
 #### T-Test for Lot 3
 ![Lot3_T_Test](Mecha_Car_Statistical_Analysis/Lot3_T_Test.png)
+
+
+## Resources
+- R
+- RStudio
+- tidyverse
