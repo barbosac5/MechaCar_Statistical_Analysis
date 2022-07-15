@@ -8,6 +8,24 @@ The purpose of this analysis are as follows:
 
 ## Deliverable 1: Linear Regression to Predict MPG
 Using the provided CSV file (MechaCar_mpg.csv), I designed a linear model that predicts the mpg of MechaCar prototypes using several variables (vehicle length, weight, AWD, mpg, spolier angle and ground clearance).
+
+### Summary
 - The variables that provide a non-random amount of variance of the mpg values are vehicle_lenth and gound_clearance. 
 - Based on the data gathered, the slaope of the linear model cannot be zero. The p-value I received is 5.35e-11 which is significantlly smaller than the 0.05% significance level. Because of this, we can reject the null hypothesis.
 - This linear model predicts mpg efficiently because the r-squared value is around 71% which indicates that 71% of the predictions can be determined by this model created.
+
+#### Linear Regression 
+(insert image here)
+
+## Deliverable 2: Create Visualizations for the Trip Analysis
+Using the Suspension_Coil.csv file, I created a summary statistics table showing the suspension coil's PSI continuous variable across all manufacturing lots and got the mean, median, variance, and standard deviation of each lot.
+
+### Summary Statistics on Suspension Coils
+- Based on the variance, MechaCar specifications desire that the suspenion coils must not exceed 100 pounds per sqaure inch. According to the data, lots 1 and 2 are both well under the maximum weight. Lots 1 and 2 have a variance of 0.9795918 and 7.4693878 respectively. On the other hand, lot 3 is exceeding the 100lbs per square inch specifications with a varaince of 170.2861224. Individually, lot 3 is the odd one out simply due to is masive difference in varaince compared to the other two. Because of this, the lots all together exceed the desired specifications. 
+
+#### Statistics on Suspension Coils
+(insert coil stats)
+
+#### Statistics on Suspension Coils by Manufacturing Lot
+(insert coil stats by lot here)
+
