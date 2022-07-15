@@ -24,10 +24,10 @@ Using the Suspension_Coil.csv file, I created a summary statistics table showing
 - Based on the variance, MechaCar specifications desire that the suspenion coils must not exceed 100 pounds per sqaure inch. According to the data, lots 1 and 2 are both well under the maximum weight. Lots 1 and 2 have a variance of 0.9795918 and 7.4693878 respectively. On the other hand, lot 3 is exceeding the 100lbs per square inch specifications with a varaince of 170.2861224. Individually, lot 3 is the odd one out simply due to is masive difference in varaince compared to the other two. Because of this, the lots all together exceed the desired specifications. 
 
 #### Statistics on Suspension Coils
-(insert coil stats)
+![Suspension_Stats](Mecha_Car_Statistical_Analysis/Coil_stats.png)
 
 #### Statistics on Suspension Coils by Manufacturing Lot
-(insert coil stats by lot here)
+![Lot_Stats](Mecha_Car_Statistical_Analysis/Lot_Stats.png)
 
 ## Deliverable 3: T-Tests on Suspension Coils 
 For Deliverable 3, I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1500 pounds per square inch. 
@@ -39,10 +39,10 @@ For Deliverable 3, I performed t-tests to determine if all manufacturing lots an
   - The t-test of Lot 3 has a mean of 1496.14 PSI.
 
 #### T-Test for Lot 1
-(lot1 t-test goes here)
+![Lot1_T_Test](Mecha_Car_Statistical_Analysis/Lot1_T_Test.png)
 
 #### T-Test for Lot 2
-(lot2 t-test goes here)
+![Lot2_T_Test](Mecha_Car_Statistical_Analysis/Lot2_T_Test.png)
 
 #### T-Test for Lot 3
-(lot3 t-test goes here)
+![Lot3_T_Test](Mecha_Car_Statistical_Analysis/Lot3_T_Test.png)
