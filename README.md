@@ -1,4 +1,4 @@
-# R_Analysis
+# MechaCar_Statistical_Analysis
 ## Purpose 
 The purpose of this analysis are as follows:
 - Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
