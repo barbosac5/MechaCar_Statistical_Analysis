@@ -47,6 +47,20 @@ For Deliverable 3, I performed t-tests to determine if all manufacturing lots an
 #### T-Test for Lot 3
 ![Lot3_T_Test](Mecha_Car_Statistical_Analysis/Lot3_T_Test.png)
 
+## Deliverable 4: Design Study COmparing the MechaCar to the Competition 
+For the last deliverable, I designed a statistical study to compare performance of the MachaCar vehicles against performance of vehicle from other maufacturers.
+
+### Study Design: MechaCar vs Competition
+- What metrics would I be using to test?
+  - Depednent Variable: The dependent variable for this anaylsis would be the current selling price.
+  - Independent Variable: For in order to compare, the independent variables should be features such as safety, MPG, Maintenence, the type of engine, even resale value.
+- What is the null and alternative hypothesis?
+  - Null hypothesis: The pricing of MechaCar is based on its performance of key factors.
+  - Alternative hypothesis: The pricing of MechaCar is not based on its performance of key factors.
+- What statistical test would I use to test the hypothesis? Why?
+  - I think the best statistical test to use for this analysis is a multiple linear line regression in order to determine the factors that have correlation between the     factors themselves and the selling price. We can find out what factor has the greatest impact on price overall by comparing multiple factors.
+- What data is needed to run the statistical test?
+  - In order to carry out this test, we would need simialr data from the competition to compare and contrast the companies.
 
 ## Resources
 - R
